@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ruby</string>
+    <string name="jarvis_ready">Ruby is ready</string>
+    <string name="jarvis_listening">Ruby listening...</string>
+    <string name="jarvis_thinking">Processing intent...</string>
+    <string name="jarvis_executing">Executing action...</string>
+    <string name="jarvis_speaking">Ruby speaking...</string>
+    <string name="jarvis_offline">Offline Mode (Local Neural Core)</string>
+    <string name="jarvis_online">Online Mode (Full Capabilities)</string>
+</resources>
